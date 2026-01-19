@@ -1,6 +1,6 @@
 # Spring-boot-Quiz-backend-REST-api
 
-A backend-only quiz REASTful api application built with Spring Boot, focusing on security, performance, and layered architecture.
+A backend-only quiz REASTful api application built with Spring Boot ready to integrate frontend frameworks like React.js, focusing on security, performance, and layered architecture.
 
 Key Features:
 Spring Security & JWT: Implements secure authentication with refresh/rotate tokens stored in HttpOnly cookies.
